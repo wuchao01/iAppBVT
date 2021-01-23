@@ -7,8 +7,8 @@ import org.apache.log4j.Logger;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class AppsFlyerBVT extends AndroidUIBase {
-    private Logger logger = Logger.getLogger(AppsFlyerBVT.class);
+public class AppsFlyerTest extends AndroidUIBase {
+    private Logger logger = Logger.getLogger(AppsFlyerTest.class);
 
     @Test
     public void runTest() throws Exception {
