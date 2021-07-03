@@ -23,7 +23,7 @@ public class AndroidUITasks {
 
 
     /**
-     * 找元素，固定最长等待15秒
+     * 找元素，固定最长等待5秒
      *
      * @param xpath
      * @param driver
